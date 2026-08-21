@@ -1,0 +1,10 @@
+{
+  "username": "rekha.bharali@nesac.gov.in",
+  "output_folder": "F:/Jintu_RS_2/NERDRR/August 2026/Mosdac Automation/Test_1",
+  "organize_by_date": true,
+  "generate_logs": true,
+  "process_data": true,
+  "last_dataset": "INSAT-3D/3DR SST L2B [3RIMG_L2B_SST]",
+  "bounding_box": "93.756419,28.188040,93.977711,28.423734",
+  "gid": ""
+}

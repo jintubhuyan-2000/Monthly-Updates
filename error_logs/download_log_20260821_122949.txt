@@ -1,0 +1,140 @@
+[12:25:10] === MOSDAC Data Download Started ===
+[12:25:10] Dataset: 3RIMG_L2B_SST
+[12:25:10] Date Range: 2026-08-11 to 2026-08-11
+[12:25:10] Bounding Box: 93.756419,28.188040,93.977711,28.423734
+[12:25:10] File Count: All
+[12:25:10] Output Folder: F:/Jintu_RS_2/NERDRR/August 2026/Mosdac Automation/Test_1
+[12:25:10] 
+[12:25:10] Searching for files with dataset: 3RIMG_L2B_SST
+[12:25:11] Found 45 files, Total size: 608.00 MB
+[12:25:11] Processing file 1/45: 3RIMG_11AUG2026_2345_L2B_SST_V02R00.h5
+[12:25:11] File skipped: 3RIMG_11AUG2026_2345_L2B_SST_V02R00.h5 (already exists)
+[12:25:11] Processing file 2/45: 3RIMG_11AUG2026_2315_L2B_SST_V02R00.h5
+[12:25:11] File skipped: 3RIMG_11AUG2026_2315_L2B_SST_V02R00.h5 (already exists)
+[12:25:11] Processing file 3/45: 3RIMG_11AUG2026_2245_L2B_SST_V02R00.h5
+[12:25:11] File skipped: 3RIMG_11AUG2026_2245_L2B_SST_V02R00.h5 (already exists)
+[12:25:11] Processing file 4/45: 3RIMG_11AUG2026_2215_L2B_SST_V02R00.h5
+[12:25:11] File skipped: 3RIMG_11AUG2026_2215_L2B_SST_V02R00.h5 (already exists)
+[12:25:11] Processing file 5/45: 3RIMG_11AUG2026_2145_L2B_SST_V02R00.h5
+[12:25:11] File skipped: 3RIMG_11AUG2026_2145_L2B_SST_V02R00.h5 (already exists)
+[12:25:11] Processing file 6/45: 3RIMG_11AUG2026_2115_L2B_SST_V02R00.h5
+[12:25:11] File skipped: 3RIMG_11AUG2026_2115_L2B_SST_V02R00.h5 (already exists)
+[12:25:11] Processing file 7/45: 3RIMG_11AUG2026_2045_L2B_SST_V02R00.h5
+[12:25:15] File downloaded: 3RIMG_11AUG2026_2045_L2B_SST_V02R00.h5
+[12:25:15] Processing file 8/45: 3RIMG_11AUG2026_2015_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_2015_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 9/45: 3RIMG_11AUG2026_1945_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1945_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 10/45: 3RIMG_11AUG2026_1745_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1745_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 11/45: 3RIMG_11AUG2026_1715_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1715_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 12/45: 3RIMG_11AUG2026_1645_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1645_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 13/45: 3RIMG_11AUG2026_1615_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1615_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 14/45: 3RIMG_11AUG2026_1545_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1545_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 15/45: 3RIMG_11AUG2026_1515_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1515_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 16/45: 3RIMG_11AUG2026_1445_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1445_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 17/45: 3RIMG_11AUG2026_1415_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1415_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 18/45: 3RIMG_11AUG2026_1345_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1345_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 19/45: 3RIMG_11AUG2026_1315_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1315_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 20/45: 3RIMG_11AUG2026_1245_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1245_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 21/45: 3RIMG_11AUG2026_1215_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1215_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 22/45: 3RIMG_11AUG2026_1145_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1145_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 23/45: 3RIMG_11AUG2026_1115_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1115_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 24/45: 3RIMG_11AUG2026_1045_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1045_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 25/45: 3RIMG_11AUG2026_1015_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_1015_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 26/45: 3RIMG_11AUG2026_0945_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0945_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 27/45: 3RIMG_11AUG2026_0915_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0915_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 28/45: 3RIMG_11AUG2026_0845_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0845_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 29/45: 3RIMG_11AUG2026_0815_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0815_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 30/45: 3RIMG_11AUG2026_0745_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0745_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 31/45: 3RIMG_11AUG2026_0715_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0715_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 32/45: 3RIMG_11AUG2026_0645_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0645_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 33/45: 3RIMG_11AUG2026_0615_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0615_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 34/45: 3RIMG_11AUG2026_0545_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0545_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 35/45: 3RIMG_11AUG2026_0515_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0515_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 36/45: 3RIMG_11AUG2026_0445_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0445_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 37/45: 3RIMG_11AUG2026_0415_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0415_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 38/45: 3RIMG_11AUG2026_0345_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0345_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 39/45: 3RIMG_11AUG2026_0315_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0315_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 40/45: 3RIMG_11AUG2026_0245_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0245_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 41/45: 3RIMG_11AUG2026_0215_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0215_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 42/45: 3RIMG_11AUG2026_0145_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0145_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 43/45: 3RIMG_11AUG2026_0115_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0115_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 44/45: 3RIMG_11AUG2026_0045_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0045_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing file 45/45: 3RIMG_11AUG2026_0015_L2B_SST_V02R00.h5
+[12:25:15] File skipped: 3RIMG_11AUG2026_0015_L2B_SST_V02R00.h5 (already exists)
+[12:25:15] Processing downloaded data...
+[12:25:15] Processing 45 files...
+[12:25:15] Processing file 1/45: 3RIMG_11AUG2026_2345_L2B_SST_V02R00.h5
+[12:25:15] File loaded as HDF5 using h5py
+[12:25:15] Extracted HDF5 data: shape=(1, 2816, 2805)
+[12:25:44] Error calculating area average: Unable to allocate 82.9 GiB for an array with shape (1, 2816, 2816, 2805) and data type float32
+[12:25:49] Spatial map saved to: F:/Jintu_RS_2/NERDRR/August 2026/Mosdac Automation/Test_1\plots\spatial_map_day_001.png
+[12:25:49] Processing file 2/45: 3RIMG_11AUG2026_2315_L2B_SST_V02R00.h5
+[12:25:49] File loaded as HDF5 using h5py
+[12:25:50] Extracted HDF5 data: shape=(1, 2816, 2805)
+[12:26:23] Error calculating area average: Unable to allocate 82.9 GiB for an array with shape (1, 2816, 2816, 2805) and data type float32
+[12:26:29] Spatial map saved to: F:/Jintu_RS_2/NERDRR/August 2026/Mosdac Automation/Test_1\plots\spatial_map_day_002.png
+[12:26:29] Processing file 3/45: 3RIMG_11AUG2026_2245_L2B_SST_V02R00.h5
+[12:26:29] File loaded as HDF5 using h5py
+[12:26:29] Extracted HDF5 data: shape=(1, 2816, 2805)
+[12:27:07] Error calculating area average: Unable to allocate 82.9 GiB for an array with shape (1, 2816, 2816, 2805) and data type float32
+[12:27:10] Spatial map saved to: F:/Jintu_RS_2/NERDRR/August 2026/Mosdac Automation/Test_1\plots\spatial_map_day_003.png
+[12:27:10] Processing file 4/45: 3RIMG_11AUG2026_2215_L2B_SST_V02R00.h5
+[12:27:10] File loaded as HDF5 using h5py
+[12:27:10] Extracted HDF5 data: shape=(1, 2816, 2805)
+[12:27:35] Error calculating area average: Unable to allocate 82.9 GiB for an array with shape (1, 2816, 2816, 2805) and data type float32
+[12:27:38] Spatial map saved to: F:/Jintu_RS_2/NERDRR/August 2026/Mosdac Automation/Test_1\plots\spatial_map_day_004.png
+[12:27:38] Processing file 5/45: 3RIMG_11AUG2026_2145_L2B_SST_V02R00.h5
+[12:27:38] File loaded as HDF5 using h5py
+[12:27:39] Extracted HDF5 data: shape=(1, 2816, 2805)
+[12:28:06] Error calculating area average: Unable to allocate 82.9 GiB for an array with shape (1, 2816, 2816, 2805) and data type float32
+[12:28:12] Spatial map saved to: F:/Jintu_RS_2/NERDRR/August 2026/Mosdac Automation/Test_1\plots\spatial_map_day_005.png
+[12:28:12] Processing file 6/45: 3RIMG_11AUG2026_2115_L2B_SST_V02R00.h5
+[12:28:12] File loaded as HDF5 using h5py
+[12:28:12] Extracted HDF5 data: shape=(1, 2816, 2805)
+[12:28:40] Error calculating area average: Unable to allocate 82.9 GiB for an array with shape (1, 2816, 2816, 2805) and data type float32
+[12:28:43] Spatial map saved to: F:/Jintu_RS_2/NERDRR/August 2026/Mosdac Automation/Test_1\plots\spatial_map_day_006.png
+[12:28:43] Processing file 7/45: 3RIMG_11AUG2026_2045_L2B_SST_V02R00.h5
+[12:28:43] File loaded as HDF5 using h5py
+[12:28:43] Extracted HDF5 data: shape=(1, 2816, 2805)
+[12:29:13] Error calculating area average: Unable to allocate 82.9 GiB for an array with shape (1, 2816, 2816, 2805) and data type float32
+[12:29:18] Spatial map saved to: F:/Jintu_RS_2/NERDRR/August 2026/Mosdac Automation/Test_1\plots\spatial_map_day_007.png
+[12:29:18] Processing file 8/45: 3RIMG_11AUG2026_2015_L2B_SST_V02R00.h5
+[12:29:18] File loaded as HDF5 using h5py
+[12:29:18] Extracted HDF5 data: shape=(1, 2816, 2805)
+[12:29:53] Error calculating area average: Unable to allocate 82.9 GiB for an array with shape (1, 2816, 2816, 2805) and data type float32
