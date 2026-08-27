@@ -1,10 +1,10 @@
 {
   "username": "rekha.bharali@nesac.gov.in",
-  "output_folder": "F:\\Jintu_RS_2\\Python Scripts NERDRR\\Monthly Updates\\Augast 2026\\MOSDAC Data Download API\\MOSDAC_Data",
+  "output_folder": "F:/Jintu_RS_2/NERDRR/August 2026/Mon_Reanalysis/Mosdac_Analysis",
   "organize_by_date": true,
   "generate_logs": true,
   "process_data": true,
-  "last_dataset": "Imager L1C Asia [3RIMG_L1C_ASIA_MER]",
-  "bounding_box": "91.72279358,26.10827889,91.77944183,26.14557621",
+  "last_dataset": "Daily HEM [3RIMG_L3B_HEM_DLY]",
+  "bounding_box": "94.57786560,26.92360048,94.67468262,27.00438466",
   "gid": ""
 }
